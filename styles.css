@@ -137,4 +137,6 @@ button {
       . img.container {
         flex-direction: column;
       }
-      
+      .greeting{
+        text-align: center;
+      }
